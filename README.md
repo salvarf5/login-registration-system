@@ -9,8 +9,8 @@ Secure Login System with PDO - OOP PHP
 # Requirements
 * PHP.
 * Web Server (I personally use XAMPP).
-* MySQL
-* Bootstrap
+* MySQL.
+* Bootstrap.
 * Javascript/JQuery.
 
 # How to use it
