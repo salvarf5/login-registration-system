@@ -6,7 +6,7 @@ Secure Login System with PDO - OOP PHP
 * The visual framework used is Bootstrap.
 * There are 4 main pages: index page shows login form and logged in panel, create user page shows a form to create a new user, forgot         password page shows a form to change password based on username, and profile page where you can change username and password once you 		logged in.
 
-# Requrements
+# Requirements
 * PHP.
 * Web Server (I personally use XAMPP).
 * MySQL
